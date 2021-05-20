@@ -9,6 +9,7 @@ body{
   justify-content: center;
   flex-direction: column;
   height: 100vh;
+  background:hsl(0, 0%, 95%);
 }
 #main{
   align-self: center;
